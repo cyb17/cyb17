@@ -11,9 +11,8 @@
   }
 </pre>
 
-<h3 style="margin-top: 30px;">🌱 Currently learning:</h3>
 <details>
-  <summary style="cursor: pointer; font-weight: bold;"></summary>
+  <summary style="cursor: pointer; font-weight: bold;"><h3>🌱 Currently learning:<h3></summary>
   <ul>
     <li>💻 <strong>Web development</strong></li>
     <li>🎶 <strong>Solfège</strong></li>
