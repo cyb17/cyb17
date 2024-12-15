@@ -11,7 +11,7 @@
   }
 </pre>
 
-<h4 style="margin-top: 30px;">🌱 I’m currently learning:</h4>
+<h4 style="margin-top: 30px;">🌱 Currently learning:</h4>
 <ul>
   <li>💻 <strong>Web development</strong></li>
   <li>🎶 <strong>Solfège</strong></li>
