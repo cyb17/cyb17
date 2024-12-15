@@ -11,31 +11,20 @@
   }
 </pre>
 
-<h4 style="margin-top: 30px;">🌱 Currently learning:</h4>
-<ul>
-  <li>💻 <strong>Web development</strong></li>
-  <li>🎶 <strong>Solfège</strong></li>
-  <li>🎤 <strong>Vocal Music</strong></li>
-</ul>
+<h3 style="margin-top: 30px;">🌱 Currently learning:</h3>
+<details>
+  <summary style="cursor: pointer; font-weight: bold;"></summary>
+  <ul>
+    <li>💻 <strong>Web development</strong></li>
+    <li>🎶 <strong>Solfège</strong></li>
+    <li>🎤 <strong>Vocal Music</strong></li>
+  </ul>
+</details>
 
 <hr>
 
-### 🛠️ Languages:
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,django,vim,git,linux,docker" />
   </a>
 </p>
-
-### 🖥️ Tools:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,git,linux,docker,django" />
-  </a>
-</p>
-
-
-<hr>
-<h4 style="margin-top: 30px;">📫 How to reach me: <a href="mailto:yabingc7@gmail.com">yabingc7@gmail.com</a></h4>
