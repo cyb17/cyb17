@@ -11,14 +11,11 @@
   }
 </pre>
 
-<details>
-  <summary style="cursor: pointer; font-weight: bold;"><h3>🌱 Currently learning:<h3></summary>
+  <summary style="font-weight: bold;"><h3>🌱 Currently learning:<h3></summary>
   <ul>
     <li>💻 <strong>Web development</strong></li>
-    <li>🎶 <strong>Solfège</strong></li>
     <li>🎤 <strong>Vocal Music</strong></li>
   </ul>
-</details>
 
 <hr>
 
